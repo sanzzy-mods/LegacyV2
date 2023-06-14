@@ -49,14 +49,14 @@ global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = 'https://bit.ly/3eggcxd'
 /*InfoBot*/
-global.nomorbot = '-'
-global.nomorown = '6287753812675'
-global.namebot = 'Legacy Bot'
-global.nameown = 'KhrlMstfa'
+global.nomorbot = '6282131369002'
+global.nomorown = '6285172446692'
+global.namebot = 'BOT WA'
+global.nameown = 'Lvvvv'
 global.rul = 'https://telegra.ph/file/0a4fa7e5726f921ac52b7.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
 /*StaffBot*/
 global.owner = [
-  ['6287753812675', 'Rull', 'true']
+  ['6285172446692', 'Lvvvv', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,18 +115,18 @@ global.neo = ''
 global.rose = '68d0600415fd8fc2b9e48c39'
 
 /*Wm*/
-global.wm = 'Legacy V2 Public' //Main Watermark
-global.wm2 = 'LegacyV2'
-global.wm3 = 'LegacyV2 Bot | By Rull'
-global.wm4 = '@LegacyV2.js'
+global.wm = 'BOT WA Public' //Main Watermark
+global.wm2 = 'BOT WA'
+global.wm3 = 'BOT WA | By Lvvvv'
+global.wm4 = '@BOTWA.js'
 global.wmvip = 'Scan Kode Qr Diatas Dan Jangan Lupa Kirim Bukti Pembayaran Ke Owner Bot!'
 global.botdate = `⻝ Tanggal: ${week} ${date}\n⻝ Waktu: ${wktuwib}`
 global.bottime = `⻝ W A K T U : ${wktuwib}`
 global.titlebot = `LegacyBot | ʙʏ ${global.nameown}`
-global.author = 'KhrlMstfa' 
-global.packname = 'By RullZY'
+global.author = 'Lvvv' 
+global.packname = 'By BOT WA'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Oktober 21 2022' //Ganti Ultah Lu Disini
+global.ultahowner = 'desember 7 2023' //Ganti Ultah Lu Disini
 
 /*ImageBuffer*/
 global.thumb = 'https://telegra.ph/file/8a1c663c84751c10baf65.jpg' //Main Thumbnail
@@ -140,10 +140,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya RullBOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KhrlMstfa✓* Saya di rilis pada tanggal\n🗓 ️_23/11/2022_'
 global.intro = 'https://telegra.ph/file/ac799c2925c618939e5a9.jpg'
 /*BioOwn*/
-global.nameowner = 'Rull?'
-global.umurowner = '16'
-global.asalowner = 'Jatim, Trenggalek'
-global.nomorowner = 'wa.me/6287753812675'
+global.nameowner = 'Levvv?'
+global.umurowner = 'private'
+global.asalowner = 'kaltim, berau'
+global.nomorowner = 'wa.me/6285172446692'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*Text*/
